@@ -322,7 +322,7 @@ class Attributes:
         return field_info_map, base, index_field_map
 
 
-class ResourceService:
+class Resource:
     """Service class to deal resources."""
 
     @classmethod
